@@ -1,5 +1,5 @@
 package guru.learning.kafka.examples;
-
+//App config
 class AppConfigs {
 
     final static String applicationID = "CountingWindowApp";
